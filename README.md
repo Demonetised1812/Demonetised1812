@@ -1,3 +1,7 @@
+<h1>Hi, I’m Zheng Yao</h1>
+
+<p>I'm a Software Engineering student at Sunway University with interests in homelabbing, automation and IoT.</p>
+
 <h2>Languages & Tools</h2>
 
 <h3>Languages</h3>
@@ -32,7 +36,7 @@
 
 <h2>My Projects</h2>
 <ul>
-  <li><strong>Self-Hosted Personal Cloud Storage:</strong> A Java and Spring Boot file storage application with an HTML and Tailwind CSS interface.</li>
+  <li><strong>Self Hosted Personal Cloud Storage:</strong> A Java and Spring Boot file storage application with an HTML and Tailwind CSS interface.</li>
   <li><strong>Virtualised Server Hosting:</strong> A Proxmox VE home lab running Ubuntu Server virtual machines.</li>
   <li><strong>Automated Photography File Sorter:</strong> A Python utility for organising RAW and JPEG photographs.</li>
 </ul>
